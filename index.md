@@ -7,4 +7,3 @@ I am an Assistant Professor at the <a href="https://cvru.ac.in/">Department of C
 
 <p>My current research interest includes Soft Computing Techniques, Machine Learning, Discourse Analysis, Sarcasm Detection, and Computer Vision Application. To be specific, I focus on development of machine learning model that can be able to detect the scene text from the environment and ability take decision which is helpful while designing autonomous devices as a part of computer vision applications.
 </p>
-
