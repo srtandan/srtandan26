@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+<h3><b><name>S.R.Tandan, Ph.D </name><br> </b> </h3>
+          AI & Soft Computing Lab, Department of Computer Science and Engineering<br>
+          Dr. C.V. Raman University<br>
+          Bilaspur - 495113 (CG), India
+        </p>
+        <p>I am an Assistant Professor at the <a href="https://cvru.ac.in/">Department of Computer Science and Engineering</a> of the <a href="http://cvru.ac.in">Dr. C.V. Raman University, Bilaspur, India</a>. I did my Ph.D working under supervision of <a href="https://http://www.nitrr.ac.in/aboutmca.php/">Dr. Priyanka Tripathi,</a> Assistant Professor, <a href="https://www.nitr.ac.in/">National Institute of Technology, Raipur, India</a>. </p>
 
-You can use the [editor on GitHub](https://github.com/srtandan/srtandan26/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p>My current research interest includes Soft Computing Techniques, Machine Learning, Discourse Analysis, Sarcasm Detection, and Computer Vision Application. To be specific, I focus on development of machine learning model that can be able to detect the scene text from the environment and ability take decision which is helpful while designing autonomous devices as a part of computer vision applications.
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srtandan/srtandan26/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
