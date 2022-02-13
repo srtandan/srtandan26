@@ -1,4 +1,5 @@
-<b><name>S.R.Tandan, Ph.D </name><br>
+<b><name>S.R.Tandan, Ph.D </name><br>https://user-images.githubusercontent.com/99525950/153767172-c2b5b90c-ea65-46fa-a61d-1b396d1f259d.JPG
+
 AI & Soft Computing Lab, Department of Computer Science and Engineering<br>
 Dr. C.V. Raman University<br>
 Bilaspur - 495113 (CG), India
