@@ -10,7 +10,8 @@ Bilaspur - 495113 (CG), India
 </p>
 <p align=center>
           <a href="mailto:srtandan@cvru.ac.in">Email</a>&nbsp;|
-          <a href="https://github.com/srtandan/srtandan26/files/8053146/S.R.Tandan.CV.pdf">CV</a>&nbsp;|
+          <a href="[Resume_S.R.Tandan, Ph.D.pdf](https://github.com/srtandan/srtandan26/files/8056317/Resume_S.R.Tandan.Ph.D.pdf)
+">CV</a>&nbsp;|
           <a href="https://scholar.google.com/citations?user=np1k2XQAAAAJ&hl=en">Google Scholar</a>&nbsp;|
           <a href="https://www.researchgate.net/profile/S-R-Tandan">ResearchGate</a>&nbsp;|
           <a href="#">Publications</a>&nbsp;|
