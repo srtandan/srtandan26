@@ -4,7 +4,7 @@ Dr. C.V. Raman University<br>
 Bilaspur - 495113 (CG), India
 
 
-<p align = justify>I am an Assistant Professor at the <a href="https://cvru.ac.in/">Department of Computer Science and Engineering</a> of the <a href="http://cvru.ac.in">Dr. C.V. Raman University, Bilaspur, India</a>. I did my Ph.D working under supervision of <a href="#">Dr. Priyanka Tripathi,</a> Assistant Professor, <a href="https://www.nitrr.ac.in/">National Institute of Technology, Raipur, India</a>. </p>
+<p align = justify>I am an Assistant Professor at the <a href="https://cvru.ac.in/">Department of Computer Science and Engineering</a> of the <a href="http://cvru.ac.in">Dr. C.V. Raman University, Bilaspur, India</a>. I did my Ph.D working under supervision of <a href="https://www.nitrr.ac.in/">Dr. Priyanka Tripathi,</a> Assistant Professor, <a href="https://www.nitrr.ac.in/">National Institute of Technology, Raipur, India</a>. </p>
 
 <p align = justify>My current research interest includes Soft Computing Techniques, Machine Learning, Discourse Analysis, Sarcasm Detection, and Computer Vision Application. To be specific, I focus on development of machine learning model that can be able to detect the scene text from the environment and ability take decision which is helpful while designing autonomous devices as a part of computer vision applications.
 </p>
