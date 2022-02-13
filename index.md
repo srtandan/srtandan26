@@ -19,4 +19,4 @@ I am an Assistant Professor at the <a href="https://cvru.ac.in/">Department of C
 <p align=left>
               <h3>Recent Professional Activities:</h3>
               <li> <b>Reviewer:</b> MISP2022 </li>
-      <li> <b>Conference Coordinator:</b> <a href="https://www.cvru.ac.in/cvruCon/cvruConITCS/">International Conference on The Ancient Indian Knowledge System for Holistic Development 28th-29th January, 2022(Virtual Mode)</p>
+      <li> <b>Conference Coordinator:</b> <a href="https://www.cvru.ac.in/cvruCon/cvruConITCS/">International Conference on The Ancient Indian Knowledge System for Holistic Development 28th-29th January, 2022(Virtual Mode)
